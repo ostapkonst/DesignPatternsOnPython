@@ -1,4 +1,4 @@
-# DesignPatternsOnPython
+# Design Patterns On Python
 
 Репозиторий содержит реализации паттернов проектирования на Python 3.
 
