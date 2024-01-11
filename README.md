@@ -12,5 +12,5 @@
 - [Фабрика (factory)](creational/factory.ipynb)
 - [Абстрактная фабрика (abstract factory)](creational/abstract_factory.ipynb)
 - [Строитель (builder)](creational/builder.ipynb)
-- [Прототип (Prototype)](creational/prototype.ipynb)
-- [Одиночка (Singleton)](creational/singleton.ipynb)
+- [Прототип (prototype)](creational/prototype.ipynb)
+- [Одиночка (singleton)](creational/singleton.ipynb)
